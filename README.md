@@ -7,7 +7,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=nat9dai&column=7)
 
 ## 🔭 Who am I?
-- Master's Student at Kyushu Univ.
+- Master's Student (Electrical and Electronic Engineering) at Kyushu University
+- BEng. Mechanical Engineering, Chulalongkorn University
 
 ## 📚 Major Field
 - Optimal Control
