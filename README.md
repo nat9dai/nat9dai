@@ -7,11 +7,12 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=nat9dai&column=7)
 
 ## 🔭 Who am I?
-- Master's Student (Electrical and Electronic Engineering) at Kyushu University
-- BEng. Mechanical Engineering, Chulalongkorn University
+- Master's Student, Electrical and Electronic Engineering, Kyushu University, Fukuoka, Japan
+- BEng, Mechanical Engineering, Chulalongkorn University, Bangkok, Thailand
 
 ## 📚 Major Field
-- Optimal Control
+- Optimal Control, MPC
+- Nonlinear Control
 - Drone/UAV
 - Robotics & AI
 - Multi-Agent (Control)
